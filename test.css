@@ -1,0 +1,28 @@
+h1{
+    background-color:red;
+    margin:0px;
+    height:150px;
+    color:white;
+    text-align:center;
+    line-height: 130px;
+    font-size: 40px;
+h2{
+    padding-left:300px
+}
+
+
+}
+.video{
+    float:left;
+    padding-left:15%;
+}
+th,tr{
+    border:1px solid black;
+}
+.list{
+    position:absolute;
+    top: 120%;
+    right: 20%;
+    width: 20%;
+    height:20%;
+}
